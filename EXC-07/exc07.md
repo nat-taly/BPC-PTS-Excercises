@@ -18,5 +18,18 @@ Pro zobrazení aktuálních informací slouží příkaz `show run`
 enable
 configure terminal
 hostname CE
-exit
+```
+
+### Nastavení zakázaní vyhledávání
+```
+enable
+configure terminal
+no ip domain-lookup
+```
+
+### Vypnutí logování do konzole
+```
+enable
+configure terminal
+no logging console informational
 ```
