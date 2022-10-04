@@ -1,9 +1,8 @@
-#EXERCISE 07 - Základní konfigurace přístupového směrovače
+# EXERCISE 07 - Základní konfigurace přístupového směrovače
 
-###Nastavení aktuálního data a času
+### [ ] Nastavení aktuálního data a času
 
+Pro zobrazení aktuálního data slouží příkaz 
 ```
-git status
-git add
-git commit
+
 ```
