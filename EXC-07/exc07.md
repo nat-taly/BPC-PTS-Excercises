@@ -2,7 +2,10 @@
 
 ### Nastavení aktuálního data a času
 
-Pro zobrazení aktuálního data slouží příkaz >show clock
-```
+Pro zobrazení aktuálního data slouží příkaz `show clock`
 
+```
+enable
+clock set 15:08:00 Oct 26 2012
+exit
 ```
